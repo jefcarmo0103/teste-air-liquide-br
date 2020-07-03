@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\TesteALB\TesteALB.Domain\bin\Debug\netcoreapp3.1\TesteALB.Domain.deps.json
+C:\Users\User\source\repos\TesteALB\TesteALB.Domain\bin\Debug\netcoreapp3.1\TesteALB.Domain.dll
+C:\Users\User\source\repos\TesteALB\TesteALB.Domain\bin\Debug\netcoreapp3.1\TesteALB.Domain.pdb
+C:\Users\User\source\repos\TesteALB\TesteALB.Domain\obj\Debug\netcoreapp3.1\TesteALB.Domain.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TesteALB\TesteALB.Domain\obj\Debug\netcoreapp3.1\TesteALB.Domain.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TesteALB\TesteALB.Domain\obj\Debug\netcoreapp3.1\TesteALB.Domain.AssemblyInfo.cs
+C:\Users\User\source\repos\TesteALB\TesteALB.Domain\obj\Debug\netcoreapp3.1\TesteALB.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TesteALB\TesteALB.Domain\obj\Debug\netcoreapp3.1\TesteALB.Domain.dll
+C:\Users\User\source\repos\TesteALB\TesteALB.Domain\obj\Debug\netcoreapp3.1\TesteALB.Domain.pdb

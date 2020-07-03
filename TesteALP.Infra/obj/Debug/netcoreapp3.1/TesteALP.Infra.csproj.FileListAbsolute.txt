@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\TesteALB\TesteALP.Infra\bin\Debug\netcoreapp3.1\TesteALP.Infra.deps.json
+C:\Users\User\source\repos\TesteALB\TesteALP.Infra\bin\Debug\netcoreapp3.1\TesteALP.Infra.runtimeconfig.json
+C:\Users\User\source\repos\TesteALB\TesteALP.Infra\bin\Debug\netcoreapp3.1\TesteALP.Infra.runtimeconfig.dev.json
+C:\Users\User\source\repos\TesteALB\TesteALP.Infra\bin\Debug\netcoreapp3.1\TesteALP.Infra.dll
+C:\Users\User\source\repos\TesteALB\TesteALP.Infra\bin\Debug\netcoreapp3.1\TesteALP.Infra.pdb
+C:\Users\User\source\repos\TesteALB\TesteALP.Infra\bin\Debug\netcoreapp3.1\TesteALB.Domain.dll
+C:\Users\User\source\repos\TesteALB\TesteALP.Infra\bin\Debug\netcoreapp3.1\TesteALB.Domain.pdb
+C:\Users\User\source\repos\TesteALB\TesteALP.Infra\obj\Debug\netcoreapp3.1\TesteALP.Infra.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TesteALB\TesteALP.Infra\obj\Debug\netcoreapp3.1\TesteALP.Infra.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TesteALB\TesteALP.Infra\obj\Debug\netcoreapp3.1\TesteALP.Infra.AssemblyInfo.cs
+C:\Users\User\source\repos\TesteALB\TesteALP.Infra\obj\Debug\netcoreapp3.1\TesteALP.Infra.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TesteALB\TesteALP.Infra\obj\Debug\netcoreapp3.1\TesteALP.Infra.csproj.CopyComplete
+C:\Users\User\source\repos\TesteALB\TesteALP.Infra\obj\Debug\netcoreapp3.1\TesteALP.Infra.dll
+C:\Users\User\source\repos\TesteALB\TesteALP.Infra\obj\Debug\netcoreapp3.1\TesteALP.Infra.pdb
+C:\Users\User\source\repos\TesteALB\TesteALP.Infra\obj\Debug\netcoreapp3.1\TesteALP.Infra.genruntimeconfig.cache

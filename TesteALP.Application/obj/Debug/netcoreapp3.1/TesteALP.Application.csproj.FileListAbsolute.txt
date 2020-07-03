@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\TesteALB\TesteALP.Application\bin\Debug\netcoreapp3.1\TesteALP.Application.deps.json
+C:\Users\User\source\repos\TesteALB\TesteALP.Application\bin\Debug\netcoreapp3.1\TesteALP.Application.dll
+C:\Users\User\source\repos\TesteALB\TesteALP.Application\bin\Debug\netcoreapp3.1\TesteALP.Application.pdb
+C:\Users\User\source\repos\TesteALB\TesteALP.Application\obj\Debug\netcoreapp3.1\TesteALP.Application.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TesteALB\TesteALP.Application\obj\Debug\netcoreapp3.1\TesteALP.Application.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TesteALB\TesteALP.Application\obj\Debug\netcoreapp3.1\TesteALP.Application.AssemblyInfo.cs
+C:\Users\User\source\repos\TesteALB\TesteALP.Application\obj\Debug\netcoreapp3.1\TesteALP.Application.dll
+C:\Users\User\source\repos\TesteALB\TesteALP.Application\obj\Debug\netcoreapp3.1\TesteALP.Application.pdb
+C:\Users\User\source\repos\TesteALB\TesteALP.Application\bin\Debug\netcoreapp3.1\TesteALB.Domain.dll
+C:\Users\User\source\repos\TesteALB\TesteALP.Application\bin\Debug\netcoreapp3.1\TesteALB.Domain.pdb
+C:\Users\User\source\repos\TesteALB\TesteALP.Application\obj\Debug\netcoreapp3.1\TesteALP.Application.csproj.CopyComplete
+C:\Users\User\source\repos\TesteALB\TesteALP.Application\obj\Debug\netcoreapp3.1\TesteALP.Application.csproj.CoreCompileInputs.cache
